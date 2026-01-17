@@ -1,0 +1,58 @@
+Aakash_Institute,LoginId,Login_Time-(Total_Break_Duration-Meeting)
+Arka_Fincap,LoginId,Login_Dur-(Lunch+Dinner+Tea+RestRoom)
+Bajaj_Capital,LoginId,Login_Time-(Total_Break_Duration-Meeting)
+BSES-Noida,Agent Name,NET LOGIN
+CESC,AGENTID,(TalkTime+WrapTime+Hold_Duration+IdleTime)-BreakTime
+CESC_Jaipur,Agent Id,Login Duration-Break
+D2H_and_Dish_25_-_Server,Login_ID,Login_Time
+D2H_and_Dish_44_-_Server,agent_login_id,Login_Time
+Dish_Backend_OB,Agent_Login_ID,Login_Time-Total_Break_Duration
+Dish_IB-Chennai,Agent  ID,Staffed Time-Agent Break TIme
+Dish_TV-Backend,Agent ID,Staffed Time-Not Ready Time
+Dish_TV-IB,Agent  ID,(Staffed Time - Agent Break Time)
+EDCIL,Agent ID,Login Duration-Total Break Duration
+Go_Noise_IB,User ID,Total Staffed Duration-Total Break Duration
+Go_Noise_OB,User Name,Total Duration-Break Duration
+GS-1,AGENTID,LoggedInDuration-BreakTime
+HDFC_Persistency,Login_Id,Login_Time-(Lunch+BioBreak+Tea+RestRoom)
+I_Pru_Protection,NT,Total Login-Total Breaks
+I_Pru_Protection_RM,NT,Total Login-Total Breaks
+I_Pru_Saving,NT,Total Login-Total Breaks
+I_Pru_Saving_RM,NT,Total Login-Total Breaks
+IDFC_CROSS_SALE,User ID,Total Talk Time+Total Hold Time+Total ACW Time+Total Ring Time+Customer Ringing Time+Customer Setup Time+Preview Time+Total Idle Time
+IDFC_DIGI_SALE,User ID,Total Talk Time+Total Hold Time+Total ACW Time+Total Ring Time+Customer Ringing Time+Customer Setup Time+Preview Time+Total Idle Time
+JIO_INSURE,LoginId,Login_Dur-(Tea+Lunch+Dinner+RestRoom)
+JVVNL,Agent ID,(BreakDuration+Idle Time+Call Handled Time)-BreakDuration
+Max_Life-SDPL,AgentID,TalkTime+HoldTime+WrapTime+IdleTime
+Mitsubishi,Agent ID,(Login Time - Aux Time)
+MOT,Agent ID,Login Duration-Total Break Duration
+Mpokket_Onboarding_SE,User ID,(Total Staffed Duration-Total Break Duration)
+Mpokket_Onboarding_ST,User ID,(Total Staffed Duration-Total Break Duration)
+Muthoot_Finance,LoginId,Login_Time-Total_Break_Duration
+Namma_Yatri,Intercom ID,Available Duration
+Nayara_Mumbai,Agent ID,(Login Time-Actual Aux)
+Paytm_Bank_Mysore,Login ID,ACD Time+ACW Time+Avail Time+Hold Time+System Maintenance-OB
+Paytm_Bank_Noida,Agent Name,Total Working Time
+Poshan_Helpline,Agent ID,Staff Time
+PSPCL,Agent ID,Login Time
+PVVNL,Agent ID,(Duration Agent is Logged in-Not Ready Time)
+Qurex,Agent,Login_Time-Total_Break_Duration
+RBI,AGENT ID,LOGGED IN DURATION-BREAK TIME
+S_C_JOHNSON,Agent ID,Login Duration-Total Break Duration
+TPDDL,VPS ID,Logged On Time-Not Ready Time
+Unicef,Agent_Login_ID,( Total_Break_Duration + Handle_Duration + Idle_Duration + Ring_Duration - Total_Break_Duration)
+VD2H_IB-Chennai,Agent  ID,Staffed Time-Agent Break TIme
+VD2H-IB_Noida,Agent  ID,(Staffed Time - Agent Break Time)
+YES_BANK,Agent_Login_id,Login_Dur-(Tea+Lunch+Dinner+Bio)
+ZET_Inbound,Agent_Login_ID,Login_Time-Total_Break_Duration
+ZET_Inbound_Partner,Agent_Login_ID,Login_Time-Total_Break_Duration
+ZET_Outbound,Agent_Login_ID,Login_Time-Total_Break_Duration
+Balmer_Lawrie,Agent ID,Login Duration-Total Break Duration
+DISH_IB-HYD,Agent  ID,Staffed Time-Agent Break TIme
+KPN_Fresh_CC,Intercom ID,LOGGED IN DURATION-BREAK Duration
+MMT_Flight_and_Filler,Login ID,(ACD Time+ACW Time+Agent Ring Time+HOLDACDTIME+Avail Time+Default AUX+Call Back+OPS Work+Training+AUXOUTOFFCALLS+AUXOUTOFFTIME)/86400
+Mpokket_Collection_APR,Agent Name,(Total Staffed Duration-Total Break Duration)
+NPS,Agent ID,Login Duration-Break Duration
+VD2H-HYD,Agent  ID,Staffed Time-Agent Break TIme
+VIDEOCON,Agent  ID,Staffed Time - Agent Break Time
+Yatra,LoginId,(Staffing-Break Time)+Meeting
