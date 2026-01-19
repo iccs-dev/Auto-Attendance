@@ -1,3 +1,4 @@
+PVVNL,Agent ID,(Duration Agent is Logged in-Not Ready Time)
 Aakash_Institute,LoginId,Login_Time-(Total_Break_Duration-Meeting)
 Arka_Fincap,LoginId,Login_Dur-(Lunch+Dinner+Tea+RestRoom)
 Bajaj_Capital,LoginId,Login_Time-(Total_Break_Duration-Meeting)
@@ -35,7 +36,6 @@ Paytm_Bank_Mysore,Login ID,ACD Time+ACW Time+Avail Time+Hold Time+System Mainten
 Paytm_Bank_Noida,Agent Name,Total Working Time
 Poshan_Helpline,Agent ID,Staff Time
 PSPCL,Agent ID,Login Time
-PVVNL,Agent ID,(Duration Agent is Logged in-Not Ready Time)
 Qurex,Agent,Login_Time-Total_Break_Duration
 RBI,AGENT ID,LOGGED IN DURATION-BREAK TIME
 S_C_JOHNSON,Agent ID,Login Duration-Total Break Duration
